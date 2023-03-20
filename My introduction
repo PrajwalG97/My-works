@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <head>
+            <title>My profile</title>
+        </head>
+        <body>
+            <h1>Prajwal G</h1>
+            <img src="profile-pic (1).png" alt="image not found"></img>
+            <dl>
+            <dt> <b>  Good morning , My name is Prajwal G.  </b></dt>
+            <br>
+            <dd> I am a full stack web developer and engineer currently living in Bangalore,Karnataka.<br>
+            I did my schooling in Sarvodaya institutes in Tumkur,Karnataka. I completed my graduation in 
+            Acharya institute of technology at the year 2020.<br> I did my graduation in Civil engineering stream.
+            I worked as an Assistant engineer in Aiq manpowers based on my civil background.<br>
+            As an aspiring engineer I wanted to become a software developer, I joined the full stack web developer 
+            course designed by the reputed organization Unikaksha.<br> As I have completed the course , 
+            I am looking for good career opportunities and If provided with it I would definitely make sure of
+            completing the given work.<br> Also, I would make sure in helping towards achieving the company's goal.
+
+            </dd>
+            </dl>
+        </body>
+</html>
